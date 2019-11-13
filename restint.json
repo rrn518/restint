@@ -1,0 +1,16 @@
+{
+  "restint": [
+    {
+      "id": 1,
+      "name": "Physical restraint"
+    },
+    {
+      "id": 2,
+      "name": "Rapid Tranquilisation"
+    },
+    {
+      "id": 3,
+      "name": "Seclusion"
+    }
+  ]
+}
